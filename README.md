@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="500" src="assets/cover.png" />
-</p>
+<img width="500" src="assets/cover.png" />
 
 👋 Hello! goread is an RSS/Atom feed reader for the terminal. It allows you to categorize and follow feeds and read articles right in the commandline! It's accompanied by a beautiful TUI made with [bubble tea](https://github.com/charmbracelet/bubbletea). Features include:
 
